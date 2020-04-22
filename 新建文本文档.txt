@@ -1,0 +1,1 @@
+        $back.eq($num).find('.tab_back2').attr(opacity,0);
